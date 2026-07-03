@@ -1,6 +1,6 @@
 {
     "name": "asma-core-react",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "React runtime library for asma-app-* micro-frontends: hooks, contexts, cn, and the auth store factory. Successor of asma-helpers-react (deprecated).",
     "main": "lib/index.js",
     "files": [
